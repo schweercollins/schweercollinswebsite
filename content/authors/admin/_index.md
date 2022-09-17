@@ -71,8 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Maria’s research uses a prevention science framework to identify malleable intervention targets and tailor evidence-based interventions to prevent child maltreatment, justice involvement, and substance use. This work was shaped by her background working as a licensed mental health clinician in a variety of community based and educational settings. As a former Doris Duke Fellow and founding and current member of the Child Well-Being Research Network, she is committed to conducting actionable research to affect change in policy and practice and improve the lives of youth and families. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As an applied research methodologist, Maria has expertise in aggregate and individual participant data meta-analyses in prevention science. She is dedicated to developing open source methods that can improve the responsivity of research to applied policy and practice contexts. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
