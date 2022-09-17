@@ -14,7 +14,7 @@ organizations:
     url: https://ww.uoregon.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I use prevention science to identify malleable intervention targets and tailor evidence-based interventions to prevent child maltreatment, justice involvement, and substance use.
+bio: Actionable research to prevent child maltreatment, justice involvement, and substance use.
 
 # Interests to show in About widget
 interests:
