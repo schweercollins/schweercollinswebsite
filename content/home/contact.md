@@ -26,31 +26,31 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mschweer@uoregon.edu
-  phone: ""
-  address:
-    street: ""
-    city: Eugene
-    region: OR
-    postcode: ''
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: ""
-    longitude: ""
-  directions: ""
-  office_hours:
-    - ""
-    - '"
-  appointment_url: ""
-  contact_links:
+ # phone: ""
+ # address:
+  #  street: ""
+  #  city: Eugene
+  #  region: OR
+  #  postcode: ''
+  #  country: United States
+  #  country_code: US
+  #coordinates:
+  #  latitude: ""
+  #  longitude: ""
+  #directions: ""
+  #office_hours:
+  #  - ""
+  #  - '"
+  #appointment_url: ""
+  #contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    #- icon: video
+    #  icon_pack: fas
+     # name: Zoom Me
+     # link: 'https://zoom.com'
 
 design:
   columns: '2'
