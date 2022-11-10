@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant Professor
     company: University of Oregon
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://hedcoinstitute.uoregon.edu/about-us'
+    company_logo: HEDCOInst-STK-White-01.png
     location: Oregon
     date_start: '2022-01-08'
     date_end: ''
