@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: here
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant Professor
     company: University of Oregon
     company_url: 'https://hedcoinstitute.uoregon.edu/about-us'
-    company_logo: HEDCOInst-STK-White-01.png
+    company_logo: 
     location: Oregon
     date_start: '2022-01-08'
     date_end: ''
