@@ -75,4 +75,4 @@ Maria’s research uses a prevention science framework to identify malleable int
 
 As an applied research methodologist, Maria has expertise in aggregate and individual participant data meta-analyses in prevention science. She is dedicated to developing open source methods that can improve the responsivity of research to applied policy and practice contexts. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Maria_SchweerCollins_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Maria_SchweerCollins_CV.pip3pdf" "newtab" >}}CV{{< /staticref >}}.
