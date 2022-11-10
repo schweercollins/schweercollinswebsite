@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mschweer@uoregon.edu
-  office: HEDCO 363 & Millrace 111C
+  office: HEDCO 363 & Millrace 111C (Lab)
 
 design:
   columns: '2'
