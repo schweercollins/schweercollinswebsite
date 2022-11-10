@@ -25,16 +25,20 @@ experience:
   - title: Research Assistant Professor
     company: University of Oregon
     company_url: 'https://hedcoinstitute.uoregon.edu/about-us'
-    company_logo: 
+    company_logo: UOSignature-STK-WHT
     location: Oregon
     date_start: '2022-01-08'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        In this role, I run two federally-funded research studies
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Study 1
+        * Study 2
+        
+
+        Maria is also a Research Assistant Professor with the HEDCO Institute for Evidence-Based Educational Practice
+
+        In this role, Maria is involved in every aspect of the research synthesis work conducted at the HEDCO Institute, from working with the HEDCO team, stakeholders, and the Advisory Board to identify topics, to coding studies, analyzing data, and writing and sharing out results.
 
   - title: Research Associate and Postdoctoral Fellow
     company: University of Oregon
