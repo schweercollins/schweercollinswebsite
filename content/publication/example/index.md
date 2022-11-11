@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: "under review"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
