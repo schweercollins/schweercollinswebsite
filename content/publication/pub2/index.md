@@ -35,11 +35,7 @@ publication_short: In *JMCH*
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: Results based on nationally
-representative data indicate that children exposed to high
-adverse childhood experiences have reduced odds of receiving
-quality provider care and having no difficulty accessing
-needed mental health treatment to address adversity.
+summary: Results based on nationally representative data indicate that children exposed to high adverse childhood experiences have reduced odds of receiving quality provider care and having no difficulty accessing needed mental health treatment to address adversity.
 
 tags: 
   - early adversity
