@@ -28,7 +28,7 @@ doi: "https://doi.org/10.1007/s10995-021-03270-9"
 # 7 = Thesis; 8 = Patent
 publication_types: ['2']
 
-Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name.
 publication: In *Maternal and Child Health Journal*
 publication_short: In *JMCH*
 
