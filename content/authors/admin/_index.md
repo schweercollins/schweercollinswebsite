@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria Schweer-Collins
+title: Maria L. Schweer-Collins
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ bio: Actionable research to prevent child maltreatment, justice involvement, and
 
 # Interests to show in About widget
 interests:
-  - Data Science
+  - Family Intervention
   - Prevention Science
   - Positive Criminology
   - Research Synthesis
