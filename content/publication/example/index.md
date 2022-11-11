@@ -38,7 +38,7 @@ abstract: Prior research suggests that brief interventions (BIs) for alcohol and
 # Summary. An optional shortened abstract.
 summary: Results from an individual participant data meta-analysis of 29 trials and 12,074 participants show that brief interventions delivered in general healthcare settings are most effective in achieving reductions in alcohol use for women.
 
-tags: [meta-analysis; substance use]
+tags: [meta-analysis] [substance use]
 
 # Display this page in the Featured widget?
 featured: true
