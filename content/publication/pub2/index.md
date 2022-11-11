@@ -32,17 +32,7 @@ publication_types: ['2']
 publication: In *Maternal and Child Health Journal*
 publication_short: In *JMCH*
 
-abstract: Objectives. Given recent advances toward universal screening for Adverse Childhood Experiences (ACEs), our objective
-was to investigate whether children with higher ACEs experience poorer quality of provider care and greater challenges
-accessing needed mental health treatment. Methods. This study uses a nationally representative sample of US children aged 0–17 years drawn from the National Survey on Children’s Health for 2016–2019. Caregivers and parents completed surveys between June 2016 and February 2020
-(N = 131,774). Logistic regression models adjusting for identified covariates were used to test associations between a child’s
-number of ACEs, their quality of provider care, and their access to mental health treatment. All analyses used appropriate
-survey weighting commands. Results. High ACEs (4 or more) were associated with lower quality of provider care, including effective care coordination [OR 0.45, 95% CI (0.38, 0.52)], family-centered care [OR 0.49, 95% CI (0.41, 0.58)], shared decision making [OR 0.50,
-95% CI (0.39, 0.85)], and referrals for care [OR 0.58, 95% CI (0.43, 0.80)]; children with high ACEs were also less likely to
-have a medical home [OR 0.66, 95% CI (0.57, 0.76)]. High ACEs were also significantly associated with greater difficulty
-accessing mental health treatment [OR 0.55, 95% CI (0.43, 0.70)]. Similar results were found for children in the moderate
-ACE (2–3) and low ACE (1) groups. Conclusions for Practice. Findings indicate that greater ACEs were associated with poorer quality medical care and greater difficulty accessing needed mental health treatment. Because findings indicate that children with high ACEs may be the least likely to receive quality care or necessary mental health treatment to address this adversity, universal screening for ACEs
-should be considered with caution.
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: Results based on nationally
