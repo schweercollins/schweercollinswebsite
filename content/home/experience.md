@@ -34,6 +34,7 @@ experience:
         
         * Exploring Pathways to Desistance and Adjustment in Adulthood Among Juvenile Justice-Involved Females
         * Opportunities to interrupt cycles of substance use: An intergenerational study of mothers affected by prior justice-system involvement and their children.  
+          
 
         I am also a Research Assistant Professor with the HEDCO Institute for Evidence-Based Educational Practice  
 
