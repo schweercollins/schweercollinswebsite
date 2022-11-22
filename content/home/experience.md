@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant Professor
-    company: University of Oregon
+    company: Prevention Science Institute | University of Oregon
     company_url: 'https://hedcoinstitute.uoregon.edu/about-us'
     company_logo: ''
     location: Oregon
@@ -34,6 +34,7 @@ experience:
         
         * Exploring Pathways to Desistance and Adjustment in Adulthood Among Juvenile Justice-Involved Females
         * Opportunities to interrupt cycles of substance use: An intergenerational study of mothers affected by prior justice-system involvement and their children.  
+        
         
         
 
@@ -52,6 +53,8 @@ experience:
     description: 
         Institute of Education Sciences Postdoctoral Fellow (R324B180001) where I received advanced training in intervention science,
         advanced research methods, and implementation science  
+
+        
 
 
         Research Associate where I led a study funded through the National Institute of Justice (2020-JX-FX-0003)  
