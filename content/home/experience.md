@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle: here
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -30,13 +30,13 @@ experience:
     date_start: '2022-01-08'
     date_end: ''
     description: |2-
-        In this role, I run two federally-funded research studies
+        In my role as a Research Assistant Professor at the Prevention Science Intitute, I run two federally-funded research studies on which I serve as PI/MPI
         
         * Exploring Pathways to Desistance and Adjustment in Adulthood Among Juvenile Justice-Involved Females
-        * Opportunities to interrupt cycles of substance use: An intergenerational study of mothers affected by prior justice-system involvement and their children.
-        
+        * Opportunities to interrupt cycles of substance use: An intergenerational study of mothers affected by prior justice-system involvement and their children.  
 
-        I am also a Research Assistant Professor with the HEDCO Institute for Evidence-Based Educational Practice
+        I am also a Research Assistant Professor with the HEDCO Institute for Evidence-Based Educational Practice  
+
 
         In this role, I am involved in every aspect of the research synthesis work conducted at the HEDCO Institute, from working with the HEDCO team, stakeholders, and the Advisory Board to identify topics, to coding studies, analyzing data, and writing and sharing out results.
 
@@ -49,9 +49,13 @@ experience:
     date_end: '2022-07-31'
     description: 
         Institute of Education Sciences Postdoctoral Fellow (R324B180001) where I received advanced training in intervention science,
-        advanced research methods, and implementation science
+        advanced research methods, and implementation science  
 
-        Research Associate where I led a study funded through the National Institute of Justice (2020-JX-FX-0003)
+
+        Research Associate where I led a study funded through the National Institute of Justice (2020-JX-FX-0003)  
+
+
+
 
 design:
   columns: '2'
