@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant Professor
-    company: Prevention Science Institute | University of Oregon
+    company: University of Oregon
     company_url: 'https://hedcoinstitute.uoregon.edu/about-us'
     company_logo: ''
     location: Oregon
@@ -36,15 +36,15 @@ experience:
         * Opportunities to interrupt cycles of substance use: An intergenerational study of mothers affected by prior justice-system involvement and their children.  
         
         
-        
-
-        I am also a Research Assistant Professor with the HEDCO Institute for Evidence-Based Educational Practice  
 
 
-        In this role, I am involved in every aspect of the research synthesis work conducted at the HEDCO Institute, from working with the HEDCO team, stakeholders, and the Advisory Board to identify topics, to coding studies, analyzing data, and writing and sharing out results.
+       <br/> I am also a Research Assistant Professor with the HEDCO Institute for Evidence-Based Educational Practice  
+
+
+        In this role, I am involved in every aspect of the research synthesis work conducted at the HEDCO Institute, from working with the HEDCO team, stakeholders, and the Advisory Board to identify topics, to coding studies, analyzing data, and writing and sharing out results.<br>
 
   - title: Research Associate and Postdoctoral Fellow
-    company: University of Oregon
+    company: Prevention Science Institute | University of Oregon
     company_url: ''
     company_logo: org-x
     location: Oregon
