@@ -33,7 +33,7 @@ experience:
         In my role as a Research Assistant Professor at the Prevention Science Intitute, I run two federally-funded research studies on which I serve as PI/MPI
         
         * Exploring Pathways to Desistance and Adjustment in Adulthood Among Juvenile Justice-Involved Females
-        * Opportunities to interrupt cycles of substance use: An intergenerational study of mothers affected by prior justice-system involvement and their children.<br>  
+        * Opportunities to interrupt cycles of substance use: An intergenerational study of mothers affected by prior justice-system involvement and their children.<br /> 
 
 
         I am also a Research Assistant Professor with the HEDCO Institute for Evidence-Based Educational Practice  
